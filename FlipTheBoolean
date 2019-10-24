@@ -1,0 +1,8 @@
+bool reverse(bool boolean) {
+	if (boolean == 0) {
+		boolean = 1;
+	} else {
+		boolean = 0;
+	}	
+return boolean;
+}
